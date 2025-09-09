@@ -1,0 +1,22 @@
+# Data Manipulation
+pandas==2.2.2
+numpy==1.26.4
+
+# Plotting Libraries
+matplotlib==3.9.0
+seaborn==0.13.2
+plotly==5.22.0
+
+# Machine Learning Core
+scikit-learn==1.5.0
+
+# Specialized ML Libraries
+imbalanced-learn==0.12.3
+xgboost==2.0.3
+# catboost==1.2.5  # Uncomment if you decide to use CatBoost
+
+# For creating the web application
+streamlit==1.38.0
+
+# To run the code in a notebook environment (optional but good practice)
+notebook==7.2.1

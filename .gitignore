@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.venv/
+visa_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model and pickle files
+*.pkl
+*.pickle
+*.gz
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Images (optional – keep only if you don’t want to version plots)
+*.png
+
+# Ignore environment/IDE files
+.DS_Store
+*.vscode/
+*.idea/
